@@ -22,3 +22,7 @@ Kullanıcılar ekranda, kullandıkları bankalardaki toplam bakiyelerini görebi
 Kullanıcılar bu ekranda, ödeme geçmişini listeleyebilir, yeni ödemeler ekleyebilir, mevcut ödemeleri silebilir ve gerektiğinde ödeme bilgilerini güncelleyebilirler. Bu sayede kullanıcılar, ödeme işlemlerini esnek bir şekilde yönetebilir, geçmiş ödemelerini inceleyebilir ve gerektiğinde düzenleme yaparak ödeme süreçlerini kontrol altında tutabilirler.
 
 ![Image](https://github.com/user-attachments/assets/3eb53715-c70d-419b-af65-381f45833dfd)
+
+📈Dashboard
+
+Kullanıcılar, bu ekran üzerinden şu bilgilere erişebilirler: "Toplam Bakiyelerini", her saniye değişen "Fatura Bilgilerini", "Gelen Son Havaleleri" ile birlikte, "Bankalar ve Banka Hesaplarındaki Para Miktarı Grafiği" başlığı altında bankalar üzerindeki paralarının istatistiksel dağılımlarını ve "Ödenen Borçlar Grafiği" başlığı altında ödeme işlemlerinin grafiksel istatistiklerini görüntüleyebilirler.
