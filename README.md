@@ -16,3 +16,7 @@ sağlamaktır.
 Kullanıcılar ekranda, kullandıkları bankalardaki toplam bakiyelerini görebilir ve son 5 banka hareketlerine ait bilgileri görüntüleyebilir.
 
 ![Image](https://github.com/user-attachments/assets/39b6a58e-6289-42dc-b56c-c9543df2b4f6)
+
+💳Ödeme ve Faturalar
+
+Kullanıcılar bu ekranda, ödeme geçmişini listeleyebilir, yeni ödemeler ekleyebilir, mevcut ödemeleri silebilir ve gerektiğinde ödeme bilgilerini güncelleyebilirler. Bu sayede kullanıcılar, ödeme işlemlerini esnek bir şekilde yönetebilir, geçmiş ödemelerini inceleyebilir ve gerektiğinde düzenleme yaparak ödeme süreçlerini kontrol altında tutabilirler.
