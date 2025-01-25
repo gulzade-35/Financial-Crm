@@ -32,3 +32,5 @@ Kullanıcılar, bu ekran üzerinden şu bilgilere erişebilirler: "Toplam Bakiye
 ⚙️Ayarlar
 
 Ayarlar kısmında kullanıcılar, sadece şifrelerini güncelleyebilir.
+
+![Image](https://github.com/user-attachments/assets/f9efba1f-345c-417b-bac1-a72f879197e0)
