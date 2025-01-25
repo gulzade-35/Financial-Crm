@@ -26,3 +26,9 @@ Kullanıcılar bu ekranda, ödeme geçmişini listeleyebilir, yeni ödemeler ekl
 📈Dashboard
 
 Kullanıcılar, bu ekran üzerinden şu bilgilere erişebilirler: "Toplam Bakiyelerini", her saniye değişen "Fatura Bilgilerini", "Gelen Son Havaleleri" ile birlikte, "Bankalar ve Banka Hesaplarındaki Para Miktarı Grafiği" başlığı altında bankalar üzerindeki paralarının istatistiksel dağılımlarını ve "Ödenen Borçlar Grafiği" başlığı altında ödeme işlemlerinin grafiksel istatistiklerini görüntüleyebilirler.
+
+![Image](https://github.com/user-attachments/assets/364ff899-e92f-4e87-97e2-51ef4965dd63)
+
+⚙️Ayarlar
+
+Ayarlar kısmında kullanıcılar, sadece şifrelerini güncelleyebilir.
