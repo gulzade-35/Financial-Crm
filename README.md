@@ -15,3 +15,4 @@ sağlamaktır.
 
 Kullanıcılar ekranda, kullandıkları bankalardaki toplam bakiyelerini görebilir ve son 5 banka hareketlerine ait bilgileri görüntüleyebilir.
 
+![Image](https://github.com/user-attachments/assets/39b6a58e-6289-42dc-b56c-c9543df2b4f6)
